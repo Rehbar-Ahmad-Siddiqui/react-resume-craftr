@@ -1,0 +1,16 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "name": "Green"
+    },
+    {
+      "id": 3,
+      "name": "Yellow"
+    },
+    {
+      "id": 4,
+      "name": "White"
+    }
+  ]
+}
