@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-resume-builder/static/css/main.503da5ae.css",
-    "main.js": "/react-resume-builder/static/js/main.5b2f4d4c.js",
-    "static/js/703.a2d1ad02.chunk.js": "/react-resume-builder/static/js/703.a2d1ad02.chunk.js",
-    "static/js/210.cec041d8.chunk.js": "/react-resume-builder/static/js/210.cec041d8.chunk.js",
-    "static/js/787.f1cef19b.chunk.js": "/react-resume-builder/static/js/787.f1cef19b.chunk.js",
-    "static/media/logo.svg": "/react-resume-builder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-resume-builder/index.html",
-    "main.503da5ae.css.map": "/react-resume-builder/static/css/main.503da5ae.css.map",
-    "main.5b2f4d4c.js.map": "/react-resume-builder/static/js/main.5b2f4d4c.js.map",
-    "703.a2d1ad02.chunk.js.map": "/react-resume-builder/static/js/703.a2d1ad02.chunk.js.map",
-    "210.cec041d8.chunk.js.map": "/react-resume-builder/static/js/210.cec041d8.chunk.js.map",
-    "787.f1cef19b.chunk.js.map": "/react-resume-builder/static/js/787.f1cef19b.chunk.js.map"
+    "main.css": "/react-resume-craftr/static/css/main.503da5ae.css",
+    "main.js": "/react-resume-craftr/static/js/main.11e867ab.js",
+    "static/js/703.a2d1ad02.chunk.js": "/react-resume-craftr/static/js/703.a2d1ad02.chunk.js",
+    "static/js/210.cec041d8.chunk.js": "/react-resume-craftr/static/js/210.cec041d8.chunk.js",
+    "static/js/787.f1cef19b.chunk.js": "/react-resume-craftr/static/js/787.f1cef19b.chunk.js",
+    "static/media/logo.svg": "/react-resume-craftr/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-resume-craftr/index.html",
+    "main.503da5ae.css.map": "/react-resume-craftr/static/css/main.503da5ae.css.map",
+    "main.11e867ab.js.map": "/react-resume-craftr/static/js/main.11e867ab.js.map",
+    "703.a2d1ad02.chunk.js.map": "/react-resume-craftr/static/js/703.a2d1ad02.chunk.js.map",
+    "210.cec041d8.chunk.js.map": "/react-resume-craftr/static/js/210.cec041d8.chunk.js.map",
+    "787.f1cef19b.chunk.js.map": "/react-resume-craftr/static/js/787.f1cef19b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.503da5ae.css",
-    "static/js/main.5b2f4d4c.js"
+    "static/js/main.11e867ab.js"
   ]
 }
