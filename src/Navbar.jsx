@@ -19,7 +19,7 @@ const Navbar = () => {
           </li>
           <li className="nav-item">
             <Link
-              to="https://rehbar-ahmad-siddiqui.github.io/aboutDeveloper"
+              to="/aboutDeveloper"
               // activeClassName="is-active"
               className="nav-links"
             >
