@@ -12,7 +12,7 @@ function App() {
     <Navbar />
         <Routes>
         <Route path='/resume' element={<Resume/>}/>
-        <Route path='https://rehbar-ahmad-siddiqui.github.io/aboutDeveloper' element={<AboutDeveloper/>} />
+        <Route path='/aboutDeveloper' element={<AboutDeveloper/>} />
        </Routes> 
     </BrowserRouter>
     </>
